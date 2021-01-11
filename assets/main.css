@@ -184,7 +184,7 @@ HERO
  
  }
  .hero{
-     background: url('/assets/house-1.jpg');
+     background: url('assets/house-1.jpg');
      background-size: cover;
      color:whitesmoke;
  }
